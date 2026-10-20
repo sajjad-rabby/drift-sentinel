@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drift-sentinel"
+version = "1.0.0"
+description = "Stdlib-only drift and LLM monitoring: PSI, KS, Jensen-Shannon distance, alerting, and Prometheus export."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Sajjad Rabby" }]
+keywords = [
+    "drift-detection",
+    "data-drift",
+    "model-monitoring",
+    "llm-monitoring",
+    "psi",
+    "jensen-shannon",
+    "prometheus",
+    "machine-learning",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: System :: Monitoring",
+    "Typing :: Typed",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.urls]
+Homepage = "https://github.com/Sunyiad/drift-sentinel"
+Repository = "https://github.com/Sunyiad/drift-sentinel"
+Issues = "https://github.com/Sunyiad/drift-sentinel/issues"
+
+[project.scripts]
+drift-sentinel = "drift_sentinel.cli:main"
+
+[tool.setuptools]
+packages = ["drift_sentinel"]
+
+[tool.setuptools.package-data]
+drift_sentinel = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

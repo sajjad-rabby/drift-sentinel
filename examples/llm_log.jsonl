@@ -1,0 +1,60 @@
+{"model": "demo-model-a", "prompt_tokens": 643, "completion_tokens": 183, "latency_ms": 1045.2, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 642, "completion_tokens": 170, "latency_ms": 604.3, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 781, "completion_tokens": 88, "latency_ms": 936.0, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 824, "completion_tokens": 197, "latency_ms": 1047.7, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 370, "completion_tokens": 64, "latency_ms": 756.0, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 731, "completion_tokens": 217, "latency_ms": 882.8, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 829, "completion_tokens": 50, "latency_ms": 700.7, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 643, "completion_tokens": 207, "latency_ms": 748.0, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 810, "completion_tokens": 206, "latency_ms": 867.2, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 721, "completion_tokens": 56, "latency_ms": 876.2, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 240, "completion_tokens": 49, "latency_ms": 899.2, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 210, "completion_tokens": 158, "latency_ms": 974.6, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 514, "completion_tokens": 152, "latency_ms": 750.2, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 419, "completion_tokens": 203, "latency_ms": 785.8, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 481, "completion_tokens": 167, "latency_ms": 925.8, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 850, "completion_tokens": 111, "latency_ms": 852.2, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 596, "completion_tokens": 181, "latency_ms": 1194.6, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 440, "completion_tokens": 120, "latency_ms": 840.7, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 415, "completion_tokens": 171, "latency_ms": 833.3, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 290, "completion_tokens": 142, "latency_ms": 916.6, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 290, "completion_tokens": 114, "latency_ms": 507.1, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 881, "completion_tokens": 40, "latency_ms": 1146.5, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 398, "completion_tokens": 93, "latency_ms": 902.9, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 564, "completion_tokens": 141, "latency_ms": 823.9, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 609, "completion_tokens": 58, "latency_ms": 740.5, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 871, "completion_tokens": 109, "latency_ms": 801.6, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 524, "completion_tokens": 62, "latency_ms": 838.2, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 599, "completion_tokens": 70, "latency_ms": 879.2, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 317, "completion_tokens": 103, "latency_ms": 842.9, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 656, "completion_tokens": 164, "latency_ms": 824.3, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 361, "completion_tokens": 214, "latency_ms": 667.4, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 375, "completion_tokens": 73, "latency_ms": 778.6, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 609, "completion_tokens": 204, "latency_ms": 715.6, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 397, "completion_tokens": 40, "latency_ms": 970.4, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 456, "completion_tokens": 191, "latency_ms": 725.1, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 395, "completion_tokens": 87, "latency_ms": 1202.8, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 583, "completion_tokens": 194, "latency_ms": 798.0, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 329, "completion_tokens": 94, "latency_ms": 785.6, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 632, "completion_tokens": 106, "latency_ms": 1096.7, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 483, "completion_tokens": 138, "latency_ms": 864.9, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 255, "completion_tokens": 59, "latency_ms": 1050.8, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 428, "completion_tokens": 43, "latency_ms": 977.7, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 795, "completion_tokens": 134, "latency_ms": 713.1, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 781, "completion_tokens": 163, "latency_ms": 992.7, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 768, "completion_tokens": 74, "latency_ms": 926.5, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 337, "completion_tokens": 119, "latency_ms": 764.9, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 413, "completion_tokens": 196, "latency_ms": 850.4, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 824, "completion_tokens": 181, "latency_ms": 966.8, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 381, "completion_tokens": 215, "latency_ms": 1204.1, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 798, "completion_tokens": 60, "latency_ms": 735.3, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 611, "completion_tokens": 52, "latency_ms": 890.2, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 441, "completion_tokens": 101, "latency_ms": 880.7, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 581, "completion_tokens": 105, "latency_ms": 506.9, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 682, "completion_tokens": 115, "latency_ms": 1036.3, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 712, "completion_tokens": 84, "latency_ms": 1296.8, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 309, "completion_tokens": 98, "latency_ms": 637.1, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}
+{"model": "demo-model-a", "prompt_tokens": 670, "completion_tokens": 183, "latency_ms": 708.1, "response": "Restart the ingestion worker; the queue drains within five minutes."}
+{"model": "demo-model-a", "prompt_tokens": 255, "completion_tokens": 111, "latency_ms": 645.4, "response": "Check the dashboard for the lag metric before scaling the pool."}
+{"model": "demo-model-a", "prompt_tokens": 397, "completion_tokens": 92, "latency_ms": 849.6, "response": "Run the migration script in dry-run mode first, then apply."}
+{"model": "demo-model-a", "prompt_tokens": 601, "completion_tokens": 154, "latency_ms": 781.9, "response": "I could not find that in the current runbook. Please check the operations guide or contact the on-call engineer."}

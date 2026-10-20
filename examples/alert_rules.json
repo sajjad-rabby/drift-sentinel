@@ -1,0 +1,20 @@
+[
+  {
+    "metric": "refusal_rate",
+    "operator": ">",
+    "threshold": 0.1,
+    "message": "Refusal rate above 10%"
+  },
+  {
+    "metric": "latency_ms.p90",
+    "operator": ">",
+    "threshold": 1500,
+    "message": "p90 latency above 1.5s"
+  },
+  {
+    "metric": "estimated_cost_usd",
+    "operator": ">",
+    "threshold": 5.0,
+    "message": "Run cost above budget"
+  }
+]

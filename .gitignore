@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db
+
+# Generated reports
+drift_report.json
+drift_report.md
+metrics.prom
+*.jsonl.gz
