@@ -29,7 +29,7 @@ between your laptop and your cluster.
 No installation needed:
 
 ```bash
-git clone https://github.com/Sunyiad/drift-sentinel.git
+git clone https://github.com/sajjad-rabby/drift-sentinel.git
 cd drift-sentinel
 python examples/demo_end_to_end.py
 ```
